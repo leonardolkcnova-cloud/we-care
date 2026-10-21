@@ -2,3 +2,11 @@
 <br>
 <br>
 <h2>Esse foi um projeto que eu aprendi no curso de Full Stack Pro</h2>
+
+# We Care 🐾
+
+![Página inicial do projeto We Care](we-care.png)
+
+## Sobre o projeto
+
+Esse foi um projeto que aprendi no curso de Full Stack Pro.
