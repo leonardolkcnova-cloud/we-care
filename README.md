@@ -5,8 +5,4 @@
 
 # We Care 🐾
 
-![Página inicial do projeto We Care](we-care.png)
-
-## Sobre o projeto
-
-Esse foi um projeto que aprendi no curso de Full Stack Pro.
+![Página inicial do projeto We Care](we-care.png.png)
